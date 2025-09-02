@@ -1,4 +1,4 @@
-# 🌍 Air Quality Prediction (PM2.5)
+# Air Quality Prediction (PM2.5)
 
 This project predicts **PM2.5 concentrations** using meteorological and air quality data with a **Linear Regression model**.  
 The goal is to understand how factors like **PM10, air temperature, and time features** influence PM2.5 pollution levels.
@@ -15,7 +15,7 @@ The goal is to understand how factors like **PM10, air temperature, and time fea
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 Install dependencies before running the project:
 
@@ -25,7 +25,7 @@ pip install pandas scikit-learn matplotlib
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository or download the project files.  
 2. Place your dataset `air_quality.csv` in the project directory.  
@@ -51,7 +51,7 @@ Target variable:
 
 ---
 
-## 🧠 Model Details
+##  Model Details
 
 - **Algorithm:** Linear Regression  
 - **Data Split:** 80% training / 20% testing  
@@ -61,7 +61,7 @@ Target variable:
 
 ---
 
-## 📈 Results
+## Results
 
 - Scatter plot of **Actual vs Predicted PM2.5** values is generated.  
 - Predictions generally follow the trend of actual values.  
@@ -69,7 +69,7 @@ Target variable:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Try advanced models: **Random Forest, Gradient Boosting, XGBoost**  
 - Add **feature scaling** for better regression performance  
@@ -78,7 +78,7 @@ Target variable:
 
 ---
 
-## 📌 Example Output
+## Example Output
 
 - **Mean Squared Error (MSE):** *(varies with dataset)*  
 - **R² Score:** *(shows model accuracy)*  
@@ -90,6 +90,4 @@ Example Plot:
 
 ---
 
-## 👨‍💻 Author
-
-Developed as a **student project** on machine learning and air quality analysis.  
+ 
