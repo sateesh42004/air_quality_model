@@ -85,7 +85,7 @@ Target variable:
 
 Example Plot:  
 
-![Example Scatter Plot](example_output.png)  
+([example_output.png](https://www.researchgate.net/publication/334226934/figure/fig5/AS:11431281365951991@1744227464891/Scatter-plot-of-predicted-PM25-versus-observed-values-using-the-deep-learning-method.tif))  
 *(Blue dots = Predictions, Red dashed line = Perfect prediction line)*  
 
 ---
